@@ -70,6 +70,7 @@ class ColorCircle(QtWidgets.QWidget):
 
     def paint_circle(self):
         painter = QtGui.QPainter(self)
+        painter.begin(self)
         for y in range(self.radius_out * 2):
             for x in range(self.radius_out * 2):
                 try:
@@ -80,9 +81,11 @@ class ColorCircle(QtWidgets.QWidget):
                     painter.drawPoint(y, x)
                 except TypeError:
                     pass
+        painter.end()
 
     def paint_triangle(self, h):
         painter = QtGui.QPainter(self)
+        painter.begin(self)
         for y in range(self.radius_out * 2):
             for x in range(self.radius_out * 2):
                 try:
@@ -93,6 +96,7 @@ class ColorCircle(QtWidgets.QWidget):
                     painter.drawPoint(y, x)
                 except TypeError:
                     pass
+        painter.end()
 
 
 if __name__ == '__main__':
