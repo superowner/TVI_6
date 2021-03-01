@@ -16,15 +16,15 @@ class CircleAnimate(QtWidgets.QMainWindow):
 
         self.timer = QtCore.QTimer()
         self.timer.timeout.connect(self.update_values)
-        self.timer.start(10)
+        self.timer.start(33)
 
     def paintEvent(self, event):
-        self.draw_notation(r=200, b=200, g=200,
+        self.draw_notation(r=150, b=150, g=150,
                            center_x=255, center_y=240, radius=200,
                            angle=6, radius_in=5)
-        self.draw_notation(r=0, b=0, g=0,
+        self.draw_notation(r=100, b=100, g=100,
                            center_x=255, center_y=240, radius=200,
-                           angle=30, radius_in=5)
+                           angle=30, radius_in=10)
         self.draw_gear(r=66, b=133, g=244,
                        center_x=255, center_y=245,
                        radius=75, to_left=True)
@@ -72,12 +72,12 @@ class CircleAnimate(QtWidgets.QMainWindow):
         qp.setBrush(QtGui.QColor(r, b, g))
 
         points_on_circle = []
-        for x in range(-(radius + 1), radius + 1):
-            for y in range(-(radius + 1), radius + 1):
-                if x ** 2 + y ** 2 == radius ** 2:
-                    points_on_circle.append([x, y])
+        for alpha in range(0, 360, 20):
+            x = radius * np.cos(np.radians(alpha) - np.pi / 2)
+            y = radius * np.sin(np.radians(alpha) - np.pi / 2)
+            points_on_circle.append([x, y])
 
-        points_on_circle.sort(key=lambda c: np.arctan2(c[0], c[1]))
+        points_on_circle.sort(key=lambda c: np.arctan2(c[0], c[1]), reverse=to_left)
 
         for i in range(len(points_on_circle)):
             a_point = points_on_circle[i - 1]
@@ -88,8 +88,8 @@ class CircleAnimate(QtWidgets.QMainWindow):
             vec_x = (a_point[0] - b_point[0]) / ab_line
             vec_y = (a_point[1] - b_point[1]) / ab_line
             c_point = [
-                b_point[0] + (vec_y * bc_line),
-                b_point[1] + (-vec_x * bc_line)
+                b_point[0] + ((-vec_y if to_left else vec_y) * bc_line),
+                b_point[1] + ((vec_x if to_left else -vec_x) * bc_line)
             ]
             path = QtGui.QPainterPath()
             path.moveTo(a_point[0], a_point[1])
@@ -114,7 +114,7 @@ class CircleAnimate(QtWidgets.QMainWindow):
         for alpha in range(0, 360, angle):
             x = radius * np.cos(np.radians(alpha) - np.pi / 2)
             y = radius * np.sin(np.radians(alpha) - np.pi / 2)
-            qp.drawEllipse(x, y, radius_in, radius_in)
+            qp.drawEllipse(x - radius_in / 2, y - radius_in / 2, radius_in, radius_in)
 
 
     def update_values(self):
