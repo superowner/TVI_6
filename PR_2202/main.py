@@ -98,8 +98,8 @@ class CircleAnimate(QtWidgets.QMainWindow):
             qp.fillPath(path, QtGui.QBrush(QtGui.QColor(r, b, g)))
 
         path = QtGui.QPainterPath()
-        path.addText(radius * -1.31, radius * 0.67, QtGui.QFont('Georgia', 1.45 * radius), "⭕")
-        path.addText(radius * -1.31, radius * 0.67, QtGui.QFont('Georgia', 1.45 * radius), "➕")
+        path.addText(radius * -1.3, radius * 0.67, QtGui.QFont('Consolas', 1.15 * radius), "⭕")
+        path.addText(radius * -1.3, radius * 0.67, QtGui.QFont('Consolas', 1.15 * radius), "➕")
         qp.drawPath(path)
         qp.end()
 

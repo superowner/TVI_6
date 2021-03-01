@@ -22,9 +22,19 @@ class ColorCircle(QtWidgets.QWidget):
         self.cx = self.radius_out + a
         self.cy = self.radius_out + b
         palette = QtGui.QPalette()
-        palette.setColor(QtGui.QPalette.Background, QtGui.QColor('#404040'))
+        # palette.setColor(QtGui.QPalette.Background, QtGui.QColor('#dcdcdc'))
         self.setPalette(palette)
         self.setFixedSize(self.radius_out * 2, self.radius_out * 2)
+
+    def set_triangle(self):
+        h = self.h * 360
+        print(h)
+        self.by = self.radius_out + self.radius_in * np.cos(np.radians(h) - np.pi / 2)
+        self.bx = self.radius_out + self.radius_in * np.sin(np.radians(h) - np.pi / 2)
+        self.ay = self.radius_out + self.radius_in * np.cos(np.radians(h + 120 if h + 120 <= 360 else h - 240) - np.pi / 2)
+        self.ax = self.radius_out + self.radius_in * np.sin(np.radians(h + 120 if h + 120 <= 360 else h - 240) - np.pi / 2)
+        self.cy = self.radius_out + self.radius_in * np.cos(np.radians(h - 120 if h - 120 >= 0 else h + 240) - np.pi / 2)
+        self.cx = self.radius_out + self.radius_in * np.sin(np.radians(h - 120 if h - 120 >= 0 else h + 240) - np.pi / 2)
 
     def entry_circle(self, x, y):
         s = np.sqrt(np.power(y - self.radius_out, 2) + np.power(x - self.radius_out, 2)) / self.radius_out
@@ -58,19 +68,23 @@ class ColorCircle(QtWidgets.QWidget):
         y = event.x()
         try:
             self.h = self.entry_circle(x, y)[0]
+            self.set_triangle()
             self.update()
         except TypeError:
             try:
                 s, v = self.entry_triangle(x, y)
                 color = QtGui.QColor(255, 255, 255, 255)
                 color.setHsvF(self.h, s, v, 1)
-                QtWidgets.QMessageBox.about(self, 'Цвет', 'Выбранный цвет: #%02x%02x%02x' % color.getRgb()[:-1])
+                QtWidgets.QMessageBox.about(self, 'Цвет', f'RBG: #%02x%02x%02x'
+                                                          f'\nHSV: {round(self.h, 2)}, {round(s, 2)}, {round(v, 2)}'
+                                            % color.getRgb()[:-1])
             except TypeError:
                 pass
 
     def paint_circle(self):
         painter = QtGui.QPainter(self)
         painter.begin(self)
+        painter.setRenderHint(QtGui.QPainter.Antialiasing)
         for y in range(self.radius_out * 2):
             for x in range(self.radius_out * 2):
                 try:
@@ -86,6 +100,7 @@ class ColorCircle(QtWidgets.QWidget):
     def paint_triangle(self, h):
         painter = QtGui.QPainter(self)
         painter.begin(self)
+        painter.setRenderHint(QtGui.QPainter.Antialiasing)
         for y in range(self.radius_out * 2):
             for x in range(self.radius_out * 2):
                 try:
