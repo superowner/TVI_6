@@ -116,7 +116,6 @@ class CircleAnimate(QtWidgets.QMainWindow):
             y = radius * np.sin(np.radians(alpha) - np.pi / 2)
             qp.drawEllipse(x - radius_in / 2, y - radius_in / 2, radius_in, radius_in)
 
-
     def update_values(self):
         self.rotate += 1
         self.update()

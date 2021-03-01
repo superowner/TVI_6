@@ -76,7 +76,6 @@ class ColorCircle(QtWidgets.QWidget):
                 color = QtGui.QColor(255, 255, 255, 255)
                 color.setHsvF(self.h, s, v, 1)
                 QtWidgets.QMessageBox.about(self, 'Цвет', f'RBG: #%02x%02x%02x'
-                                                          f'\nHSV: {round(self.h, 2)}, {round(s, 2)}, {round(v, 2)}'
                                             % color.getRgb()[:-1])
             except TypeError:
                 pass
