@@ -24,33 +24,33 @@ class CircleAnimate(QtWidgets.QMainWindow):
                            angle=30, radius_point=10,
                            r_color=100, g_color=100, b_color=100)
 
-        self.draw_gear(x_center=255, y_center=240, radius=60, coefficient=0.015,
+        self.draw_gear(x_center=255, y_center=240, radius=60, coefficient=60,
                        n_teeth=15, to_left=True,
                        r_color=66, g_color=133, b_color=244)
-        self.draw_gear(x_center=255, y_center=240, radius=40, coefficient=0.12,
+        self.draw_gear(x_center=255, y_center=240, radius=40, coefficient=7.5,
                        n_teeth=15, to_left=True,
                        r_color=251, g_color=188, b_color=5)
-        self.draw_gear(x_center=255, y_center=240, radius=20, coefficient=3.6,
+        self.draw_gear(x_center=255, y_center=240, radius=20, coefficient=0.25,
                        n_teeth=15, to_left=True,
                        r_color=234, g_color=67, b_color=53)
 
-        self.draw_gear(x_center=320, y_center=255, radius=40, coefficient=0.12,
+        self.draw_gear(x_center=320, y_center=255, radius=40, coefficient=7.5,
                        n_teeth=15, to_left=False,
                        r_color=52, g_color=168, b_color=83)
-        self.draw_gear(x_center=382, y_center=282, radius=40, coefficient=0.12,
+        self.draw_gear(x_center=382, y_center=282, radius=40, coefficient=7.5,
                        n_teeth=15, to_left=True,
                        r_color=234, g_color=67, b_color=53)
 
         self.draw_glass(x_center=255, y_center=240, radius=420,
                         r_color=200, b_color=200, g_color=200, a_color=50)
 
-        self.draw_arrow(x_center=255, y_center=240, radius=60, coefficient=0.015,
+        self.draw_arrow(x_center=255, y_center=240, radius=3600, coefficient=1,
                         width=12, height=100,
                         r_color=200, g_color=200, b_color=200)
-        self.draw_arrow(x_center=255, y_center=240, radius=40, coefficient=0.12,
+        self.draw_arrow(x_center=255, y_center=240, radius=300, coefficient=1,
                         width=6, height=150,
                         r_color=150, g_color=150, b_color=150)
-        self.draw_arrow(x_center=255, y_center=240, radius=20, coefficient=3.6,
+        self.draw_arrow(x_center=255, y_center=240, radius=5, coefficient=1,
                         width=5, height=200,
                         r_color=100, g_color=100, b_color=100)
 
@@ -64,7 +64,7 @@ class CircleAnimate(QtWidgets.QMainWindow):
         triangle_points.sort(key=lambda c: np.arctan2(c[0], c[1]), reverse=to_left)
 
         transform = QtGui.QTransform(1, 0, 0, 1, x_center, y_center)
-        transform.rotate(100 / radius * coefficient * self.rotate * (1 if to_left else -1))
+        transform.rotate(100 / (radius * coefficient) * self.rotate * (1 if to_left else -1))
         qp = QtGui.QPainter()
         qp.begin(self)
         qp.setRenderHint(QtGui.QPainter.Antialiasing)
@@ -87,7 +87,7 @@ class CircleAnimate(QtWidgets.QMainWindow):
 
     def draw_arrow(self, x_center, y_center, radius, coefficient, width, height, r_color, b_color, g_color):
         transform = QtGui.QTransform(1, 0, 0, 1, x_center, y_center)
-        transform.rotate(100 / radius * coefficient * self.rotate)
+        transform.rotate((100 / (radius * coefficient)) * self.rotate)
 
         qp = QtGui.QPainter()
         qp.begin(self)
