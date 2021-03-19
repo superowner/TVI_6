@@ -1,7 +1,6 @@
 import sys
 from PyQt5 import QtWidgets
 from PyQt5 import QtGui
-from PyQt5 import Qt
 from PyQt5 import QtCore
 import numpy as np
 
