@@ -8,6 +8,8 @@ import numpy as np
 class CircleAnimate(QtWidgets.QMainWindow):
     def __init__(self):
         super().__init__()
+        self.setWindowTitle('Килюп Л.А. ИКБО-08-18')
+        
         self.resize(510, 480)
         self.qp = QtGui.QPainter()
         self.rotate = 0

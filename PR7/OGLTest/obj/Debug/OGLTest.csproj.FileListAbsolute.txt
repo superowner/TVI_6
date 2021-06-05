@@ -1,0 +1,85 @@
+C:\Users\Administrator\Desktop\OGLTest\OGLTest\bin\Debug\OGLTest.exe.config
+C:\Users\Administrator\Desktop\OGLTest\OGLTest\bin\Debug\OGLTest.exe
+C:\Users\Administrator\Desktop\OGLTest\OGLTest\bin\Debug\OGLTest.pdb
+C:\Users\Administrator\Desktop\OGLTest\OGLTest\bin\Debug\OpenTK.dll
+C:\Users\Administrator\Desktop\OGLTest\OGLTest\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Administrator\Desktop\OGLTest\OGLTest\bin\Debug\OpenTK.xml
+C:\Users\Administrator\Desktop\OGLTest\OGLTest\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Administrator\Desktop\OGLTest\OGLTest\obj\Debug\OGLTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\OGLTest\OGLTest\obj\Debug\OGLTest.Form1.resources
+C:\Users\Administrator\Desktop\OGLTest\OGLTest\obj\Debug\OGLTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\OGLTest\OGLTest\obj\Debug\OGLTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\OGLTest\OGLTest\obj\Debug\OGLTest.exe
+C:\Users\Administrator\Desktop\OGLTest\OGLTest\obj\Debug\OGLTest.pdb
+F:\Материалы\Технологии визуализации информации\OGLTest\OGLTest\bin\Debug\OGLTest.exe.config
+F:\Материалы\Технологии визуализации информации\OGLTest\OGLTest\obj\Debug\OGLTest.exe
+F:\Материалы\Технологии визуализации информации\OGLTest\OGLTest\obj\Debug\OGLTest.pdb
+F:\Материалы\Технологии визуализации информации\OGLTest\OGLTest\bin\Debug\OGLTest.exe
+F:\Материалы\Технологии визуализации информации\OGLTest\OGLTest\bin\Debug\OGLTest.pdb
+F:\Материалы\Технологии визуализации информации\OGLTest\OGLTest\bin\Debug\OpenTK.xml
+F:\Материалы\Технологии визуализации информации\OGLTest\OGLTest\bin\Debug\OpenTK.GLControl.xml
+F:\Материалы\Технологии визуализации информации\OGLTest\OGLTest\obj\Debug\OGLTest.csprojResolveAssemblyReference.cache
+F:\Материалы\Технологии визуализации информации\OGLTest\OGLTest\obj\Debug\OGLTest.Form1.resources
+F:\Материалы\Технологии визуализации информации\OGLTest\OGLTest\obj\Debug\OGLTest.Properties.Resources.resources
+F:\Материалы\Технологии визуализации информации\OGLTest\OGLTest\obj\Debug\OGLTest.csproj.GenerateResource.Cache
+C:\Users\MAMOHT\Desktop\OGLTest\OGLTest\bin\Debug\OGLTest.exe.config
+C:\Users\MAMOHT\Desktop\OGLTest\OGLTest\obj\Debug\OGLTest.exe
+C:\Users\MAMOHT\Desktop\OGLTest\OGLTest\obj\Debug\OGLTest.pdb
+C:\Users\MAMOHT\Desktop\OGLTest\OGLTest\bin\Debug\OGLTest.exe
+C:\Users\MAMOHT\Desktop\OGLTest\OGLTest\bin\Debug\OGLTest.pdb
+C:\Users\MAMOHT\Desktop\OGLTest\OGLTest\bin\Debug\OpenTK.xml
+C:\Users\MAMOHT\Desktop\OGLTest\OGLTest\bin\Debug\OpenTK.GLControl.xml
+C:\Users\MAMOHT\Desktop\OGLTest\OGLTest\obj\Debug\OGLTest.csprojResolveAssemblyReference.cache
+C:\Users\MAMOHT\Desktop\OGLTest\OGLTest\obj\Debug\OGLTest.Form1.resources
+C:\Users\MAMOHT\Desktop\OGLTest\OGLTest\obj\Debug\OGLTest.Properties.Resources.resources
+C:\Users\MAMOHT\Desktop\OGLTest\OGLTest\obj\Debug\OGLTest.csproj.GenerateResource.Cache
+D:\Материалы\ТВИ\OGLTest\OGLTest\bin\Debug\OGLTest.exe.config
+D:\Материалы\ТВИ\OGLTest\OGLTest\obj\Debug\OGLTest.exe
+D:\Материалы\ТВИ\OGLTest\OGLTest\obj\Debug\OGLTest.pdb
+D:\Материалы\ТВИ\OGLTest\OGLTest\obj\Debug\OGLTest.csprojResolveAssemblyReference.cache
+D:\Материалы\ТВИ\OGLTest\OGLTest\obj\Debug\OGLTest.Form1.resources
+D:\Материалы\ТВИ\OGLTest\OGLTest\obj\Debug\OGLTest.Properties.Resources.resources
+D:\Материалы\ТВИ\OGLTest\OGLTest\obj\Debug\OGLTest.csproj.GenerateResource.Cache
+D:\Материалы\ТВИ\OGLTest\OGLTest\bin\Debug\OGLTest.exe
+D:\Материалы\ТВИ\OGLTest\OGLTest\bin\Debug\OGLTest.pdb
+D:\Материалы\ТВИ\OGLTest\OGLTest\bin\Debug\OpenTK.xml
+D:\Материалы\ТВИ\OGLTest\OGLTest\bin\Debug\OpenTK.GLControl.xml
+D:\Programming\C#\lab7\OGLTest\bin\Debug\OGLTest.exe.config
+D:\Programming\C#\lab7\OGLTest\bin\Debug\OGLTest.exe
+D:\Programming\C#\lab7\OGLTest\bin\Debug\OGLTest.pdb
+D:\Programming\C#\lab7\OGLTest\bin\Debug\OpenTK.xml
+D:\Programming\C#\lab7\OGLTest\bin\Debug\OpenTK.GLControl.xml
+D:\Programming\C#\lab7\OGLTest\obj\Debug\OGLTest.csprojAssemblyReference.cache
+D:\Programming\C#\lab7\OGLTest\obj\Debug\OGLTest.Form1.resources
+D:\Programming\C#\lab7\OGLTest\obj\Debug\OGLTest.Properties.Resources.resources
+D:\Programming\C#\lab7\OGLTest\obj\Debug\OGLTest.csproj.GenerateResource.cache
+D:\Programming\C#\lab7\OGLTest\obj\Debug\OGLTest.csproj.CoreCompileInputs.cache
+D:\Programming\C#\lab7\OGLTest\obj\Debug\OGLTest.csproj.CopyComplete
+D:\Programming\C#\lab7\OGLTest\obj\Debug\OGLTest.exe
+D:\Programming\C#\lab7\OGLTest\obj\Debug\OGLTest.pdb
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\bin\Debug\OGLTest.exe.config
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\bin\Debug\OGLTest.exe
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\bin\Debug\OGLTest.pdb
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\bin\Debug\OpenTK.xml
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\bin\Debug\OpenTK.GLControl.xml
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\obj\Debug\OGLTest.csprojAssemblyReference.cache
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\obj\Debug\OGLTest.Form1.resources
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\obj\Debug\OGLTest.Properties.Resources.resources
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\obj\Debug\OGLTest.csproj.GenerateResource.cache
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\obj\Debug\OGLTest.csproj.CoreCompileInputs.cache
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\obj\Debug\OGLTest.csproj.CopyComplete
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\obj\Debug\OGLTest.exe
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\obj\Debug\OGLTest.pdb
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\bin\Debug\OGLTest.exe.config
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\bin\Debug\OGLTest.exe
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\bin\Debug\OGLTest.pdb
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\bin\Debug\OpenTK.xml
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\bin\Debug\OpenTK.GLControl.xml
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\obj\Debug\OGLTest.csproj.AssemblyReference.cache
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\obj\Debug\OGLTest.Form1.resources
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\obj\Debug\OGLTest.Properties.Resources.resources
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\obj\Debug\OGLTest.csproj.GenerateResource.cache
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\obj\Debug\OGLTest.csproj.CoreCompileInputs.cache
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\obj\Debug\OGLTest.csproj.CopyComplete
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\obj\Debug\OGLTest.exe
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\7\lab7_better\lab7\OGLTest\obj\Debug\OGLTest.pdb

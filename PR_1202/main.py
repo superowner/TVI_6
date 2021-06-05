@@ -6,6 +6,8 @@ import numpy as np
 class ColorCircle(QtWidgets.QWidget):
     def __init__(self):
         super().__init__()
+        self.setWindowTitle('Килюп Л.А. ИКБО-08-18')
+        
         self.h = 0
 
         self.radius_in = 80

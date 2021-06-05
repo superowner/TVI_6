@@ -1,0 +1,63 @@
+C:\Users\Administrator\Documents\CompGraph\Tree\Tree\bin\Debug\Tree.exe.config
+C:\Users\Administrator\Documents\CompGraph\Tree\Tree\bin\Debug\Tree.exe
+C:\Users\Administrator\Documents\CompGraph\Tree\Tree\bin\Debug\Tree.pdb
+C:\Users\Administrator\Documents\CompGraph\Tree\Tree\bin\Debug\OpenTK.dll
+C:\Users\Administrator\Documents\CompGraph\Tree\Tree\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Administrator\Documents\CompGraph\Tree\Tree\bin\Debug\OpenTK.xml
+C:\Users\Administrator\Documents\CompGraph\Tree\Tree\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Administrator\Documents\CompGraph\Tree\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\CompGraph\Tree\Tree\obj\Debug\Tree.Form1.resources
+C:\Users\Administrator\Documents\CompGraph\Tree\Tree\obj\Debug\Tree.Properties.Resources.resources
+C:\Users\Administrator\Documents\CompGraph\Tree\Tree\obj\Debug\Tree.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\CompGraph\Tree\Tree\obj\Debug\Tree.exe
+C:\Users\Administrator\Documents\CompGraph\Tree\Tree\obj\Debug\Tree.pdb
+D:\Projects\Tree\Tree\bin\Debug\Tree.exe.config
+D:\Projects\Tree\Tree\bin\Debug\Tree.exe
+D:\Projects\Tree\Tree\bin\Debug\Tree.pdb
+D:\Projects\Tree\Tree\bin\Debug\OpenTK.xml
+D:\Projects\Tree\Tree\bin\Debug\OpenTK.GLControl.xml
+D:\Projects\Tree\Tree\obj\Debug\Tree.Form1.resources
+D:\Projects\Tree\Tree\obj\Debug\Tree.Properties.Resources.resources
+D:\Projects\Tree\Tree\obj\Debug\Tree.csproj.GenerateResource.cache
+D:\Projects\Tree\Tree\obj\Debug\Tree.exe
+D:\Projects\Tree\Tree\obj\Debug\Tree.pdb
+D:\Projects\Tree\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cache
+D:\Учеба\ТВИ\FINAL\8lab\лаба\Tree\bin\Debug\Tree.exe.config
+D:\Учеба\ТВИ\FINAL\8lab\лаба\Tree\bin\Debug\Tree.exe
+D:\Учеба\ТВИ\FINAL\8lab\лаба\Tree\bin\Debug\Tree.pdb
+D:\Учеба\ТВИ\FINAL\8lab\лаба\Tree\bin\Debug\OpenTK.xml
+D:\Учеба\ТВИ\FINAL\8lab\лаба\Tree\bin\Debug\OpenTK.GLControl.xml
+D:\Учеба\ТВИ\FINAL\8lab\лаба\Tree\obj\Debug\Tree.csprojAssemblyReference.cache
+D:\Учеба\ТВИ\FINAL\8lab\лаба\Tree\obj\Debug\Tree.Form1.resources
+D:\Учеба\ТВИ\FINAL\8lab\лаба\Tree\obj\Debug\Tree.Properties.Resources.resources
+D:\Учеба\ТВИ\FINAL\8lab\лаба\Tree\obj\Debug\Tree.csproj.GenerateResource.cache
+D:\Учеба\ТВИ\FINAL\8lab\лаба\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+D:\Учеба\ТВИ\FINAL\8lab\лаба\Tree\obj\Debug\Tree.csproj.CopyComplete
+D:\Учеба\ТВИ\FINAL\8lab\лаба\Tree\obj\Debug\Tree.exe
+D:\Учеба\ТВИ\FINAL\8lab\лаба\Tree\obj\Debug\Tree.pdb
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\8\8 лаба\Tree\bin\Debug\Tree.exe.config
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\8\8 лаба\Tree\bin\Debug\Tree.exe
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\8\8 лаба\Tree\bin\Debug\Tree.pdb
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\8\8 лаба\Tree\bin\Debug\OpenTK.xml
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\8\8 лаба\Tree\bin\Debug\OpenTK.GLControl.xml
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\8\8 лаба\Tree\obj\Debug\Tree.csprojAssemblyReference.cache
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\8\8 лаба\Tree\obj\Debug\Tree.Form1.resources
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\8\8 лаба\Tree\obj\Debug\Tree.Properties.Resources.resources
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\8\8 лаба\Tree\obj\Debug\Tree.csproj.GenerateResource.cache
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\8\8 лаба\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\8\8 лаба\Tree\obj\Debug\Tree.csproj.CopyComplete
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\8\8 лаба\Tree\obj\Debug\Tree.exe
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\8\8 лаба\Tree\obj\Debug\Tree.pdb
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\8\8 лаба\Tree\bin\Debug\Tree.exe.config
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\8\8 лаба\Tree\bin\Debug\Tree.exe
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\8\8 лаба\Tree\bin\Debug\Tree.pdb
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\8\8 лаба\Tree\bin\Debug\OpenTK.xml
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\8\8 лаба\Tree\bin\Debug\OpenTK.GLControl.xml
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\8\8 лаба\Tree\obj\Debug\Tree.csproj.AssemblyReference.cache
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\8\8 лаба\Tree\obj\Debug\Tree.Form1.resources
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\8\8 лаба\Tree\obj\Debug\Tree.Properties.Resources.resources
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\8\8 лаба\Tree\obj\Debug\Tree.csproj.GenerateResource.cache
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\8\8 лаба\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\8\8 лаба\Tree\obj\Debug\Tree.csproj.CopyComplete
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\8\8 лаба\Tree\obj\Debug\Tree.exe
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\8\8 лаба\Tree\obj\Debug\Tree.pdb

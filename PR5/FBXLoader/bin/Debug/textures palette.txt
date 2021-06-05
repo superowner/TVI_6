@@ -1,0 +1,9 @@
+R, G, B, Climate, Land type
+230, 230, 120, "Temperate", "Sand",
+175, 161, 131, "Temperate", "Pebbles (2)",
+120, 121, 120, "Temperate", "Underwater rock",
+120, 122, 122, "Temperate", "Coastal rock",
+120, 190, 80, "Temperate", "Lush grass",
+110, 180, 80, "Temperate", "Steep lush grass",
+120, 120, 120, "Temperate", "Cliff face",
+80, 80, 80, "Temperate", "Steep cliffs",

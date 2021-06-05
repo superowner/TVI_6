@@ -1,0 +1,83 @@
+C:\Users\Administrator\Documents\FBX\CubeTest\FBXCube\FBXCube\bin\Debug\FBXCube.exe.config
+C:\Users\Administrator\Documents\FBX\CubeTest\FBXCube\FBXCube\bin\Debug\FBXCube.exe
+C:\Users\Administrator\Documents\FBX\CubeTest\FBXCube\FBXCube\bin\Debug\FBXCube.pdb
+C:\Users\Administrator\Documents\FBX\CubeTest\FBXCube\FBXCube\bin\Debug\FbxSharp.dll
+C:\Users\Administrator\Documents\FBX\CubeTest\FBXCube\FBXCube\bin\Debug\FbxSharp.pdb
+C:\Users\Administrator\Documents\FBX\CubeTest\FBXCube\FBXCube\obj\Debug\FBXCube.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\FBX\CubeTest\FBXCube\FBXCube\obj\Debug\FBXCube.Form1.resources
+C:\Users\Administrator\Documents\FBX\CubeTest\FBXCube\FBXCube\obj\Debug\FBXCube.Properties.Resources.resources
+C:\Users\Administrator\Documents\FBX\CubeTest\FBXCube\FBXCube\obj\Debug\FBXCube.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\FBX\CubeTest\FBXCube\FBXCube\obj\Debug\FBXCube.exe
+C:\Users\Administrator\Documents\FBX\CubeTest\FBXCube\FBXCube\obj\Debug\FBXCube.pdb
+C:\Users\Administrator\Documents\FBX\CubeTest\FBXCube\FBXCube\bin\Debug\OpenTK.dll
+C:\Users\Administrator\Documents\FBX\CubeTest\FBXCube\FBXCube\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Administrator\Documents\FBX\CubeTest\FBXCube\FBXCube\bin\Debug\OpenTK.xml
+C:\Users\Administrator\Documents\FBX\CubeTest\FBXCube\FBXCube\bin\Debug\OpenTK.GLControl.xml
+D:\Projects\FBX\CubeTest\FBXCube\FBXCube\bin\Debug\FBXCube.exe.config
+D:\Projects\FBX\CubeTest\FBXCube\FBXCube\obj\Debug\FBXCube.exe
+D:\Projects\FBX\CubeTest\FBXCube\FBXCube\obj\Debug\FBXCube.pdb
+D:\Projects\FBX\CubeTest\FBXCube\FBXCube\obj\Debug\FBXCube.csprojResolveAssemblyReference.cache
+D:\Projects\FBX\CubeTest\FBXCube\FBXCube\obj\Debug\FBXCube.Form1.resources
+D:\Projects\FBX\CubeTest\FBXCube\FBXCube\obj\Debug\FBXCube.Properties.Resources.resources
+D:\Projects\FBX\CubeTest\FBXCube\FBXCube\obj\Debug\FBXCube.csproj.GenerateResource.Cache
+D:\Projects\FBX\CubeTest\FBXCube\FBXCube\bin\Debug\FBXCube.exe
+D:\Projects\FBX\CubeTest\FBXCube\FBXCube\bin\Debug\FBXCube.pdb
+D:\Projects\FBX\CubeTest\FBXCube\FBXCube\bin\Debug\FbxSharp.dll
+D:\Projects\FBX\CubeTest\FBXCube\FBXCube\bin\Debug\FbxSharp.pdb
+D:\Projects\FBX\CubeTest\FBXCube\FBXCube\bin\Debug\OpenTK.xml
+D:\Projects\FBX\CubeTest\FBXCube\FBXCube\bin\Debug\OpenTK.GLControl.xml
+D:\Projects\FBX\VITechnologies\AnimationModelFBX\FBXCube\bin\Debug\FBXCube.exe.config
+D:\Projects\FBX\VITechnologies\AnimationModelFBX\FBXCube\obj\Debug\FBXCube.exe
+D:\Projects\FBX\VITechnologies\AnimationModelFBX\FBXCube\obj\Debug\FBXCube.pdb
+D:\Projects\FBX\VITechnologies\AnimationModelFBX\FBXCube\bin\Debug\FBXCube.exe
+D:\Projects\FBX\VITechnologies\AnimationModelFBX\FBXCube\bin\Debug\FBXCube.pdb
+D:\Projects\FBX\VITechnologies\AnimationModelFBX\FBXCube\bin\Debug\FbxSharp.dll
+D:\Projects\FBX\VITechnologies\AnimationModelFBX\FBXCube\bin\Debug\FbxSharp.pdb
+D:\Projects\FBX\VITechnologies\AnimationModelFBX\FBXCube\bin\Debug\OpenTK.xml
+D:\Projects\FBX\VITechnologies\AnimationModelFBX\FBXCube\bin\Debug\OpenTK.GLControl.xml
+D:\Projects\FBX\VITechnologies\AnimationModelFBX\FBXCube\obj\Debug\FBXCube.csprojResolveAssemblyReference.cache
+D:\Projects\FBX\VITechnologies\AnimationModelFBX\FBXCube\obj\Debug\FBXCube.Form1.resources
+D:\Projects\FBX\VITechnologies\AnimationModelFBX\FBXCube\obj\Debug\FBXCube.Properties.Resources.resources
+D:\Projects\FBX\VITechnologies\AnimationModelFBX\FBXCube\obj\Debug\FBXCube.csproj.GenerateResource.Cache
+C:\Users\temch\Desktop\Новая папка\FBXCube\bin\Debug\FBXCube.exe.config
+C:\Users\temch\Desktop\Новая папка\FBXCube\bin\Debug\FBXCube.exe
+C:\Users\temch\Desktop\Новая папка\FBXCube\bin\Debug\FBXCube.pdb
+C:\Users\temch\Desktop\Новая папка\FBXCube\bin\Debug\FbxSharp.pdb
+C:\Users\temch\Desktop\Новая папка\FBXCube\bin\Debug\OpenTK.xml
+C:\Users\temch\Desktop\Новая папка\FBXCube\bin\Debug\OpenTK.GLControl.xml
+C:\Users\temch\Desktop\Новая папка\FBXCube\obj\Debug\FBXCube.csprojAssemblyReference.cache
+C:\Users\temch\Desktop\Новая папка\FBXCube\obj\Debug\FBXCube.Form1.resources
+C:\Users\temch\Desktop\Новая папка\FBXCube\obj\Debug\FBXCube.Properties.Resources.resources
+C:\Users\temch\Desktop\Новая папка\FBXCube\obj\Debug\FBXCube.csproj.GenerateResource.cache
+C:\Users\temch\Desktop\Новая папка\FBXCube\obj\Debug\FBXCube.csproj.CoreCompileInputs.cache
+C:\Users\temch\Desktop\Новая папка\FBXCube\obj\Debug\FBXCube.csproj.CopyComplete
+C:\Users\temch\Desktop\Новая папка\FBXCube\obj\Debug\FBXCube.exe
+C:\Users\temch\Desktop\Новая папка\FBXCube\obj\Debug\FBXCube.pdb
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\bin\Debug\FBXCube.exe.config
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\bin\Debug\FBXCube.exe
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\bin\Debug\FBXCube.pdb
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\bin\Debug\FbxSharp.pdb
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\bin\Debug\OpenTK.xml
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\bin\Debug\OpenTK.GLControl.xml
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\obj\Debug\FBXCube.csprojAssemblyReference.cache
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\obj\Debug\FBXCube.Form1.resources
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\obj\Debug\FBXCube.Properties.Resources.resources
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\obj\Debug\FBXCube.csproj.GenerateResource.cache
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\obj\Debug\FBXCube.csproj.CoreCompileInputs.cache
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\obj\Debug\FBXCube.csproj.CopyComplete
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\obj\Debug\FBXCube.exe
+C:\Users\misai\Downloads\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\obj\Debug\FBXCube.pdb
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\bin\Debug\FBXCube.exe.config
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\bin\Debug\FBXCube.exe
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\bin\Debug\FBXCube.pdb
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\bin\Debug\FbxSharp.pdb
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\bin\Debug\OpenTK.xml
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\bin\Debug\OpenTK.GLControl.xml
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\obj\Debug\FBXCube.csproj.AssemblyReference.cache
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\obj\Debug\FBXCube.Form1.resources
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\obj\Debug\FBXCube.Properties.Resources.resources
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\obj\Debug\FBXCube.csproj.GenerateResource.cache
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\obj\Debug\FBXCube.csproj.CoreCompileInputs.cache
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\obj\Debug\FBXCube.csproj.CopyComplete
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\obj\Debug\FBXCube.exe
+C:\Users\nabie\Downloads\drive-download-20210603T132754Z-001\drive-download-20210603T132754Z-001\6\Новая папка\FBXCube\obj\Debug\FBXCube.pdb
